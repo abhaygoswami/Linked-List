@@ -5,7 +5,7 @@
 //contribute more and more to make the </> more reliable 
 
 								//"BORING_CODE" @abhay
-//header file 		 
+//header files require in C/C++ 		 
 #include<stdio.h>
 #include<malloc.h>
 
