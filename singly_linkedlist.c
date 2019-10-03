@@ -3,7 +3,7 @@
 //@ An OpenSource Initiative #BORING_CODE
 //contribute more and more to make the </> more reliable 
 
-//header file 		 
+//header files for C/C++ 		 
 #include<stdio.h>
 #include<malloc.h>
 
